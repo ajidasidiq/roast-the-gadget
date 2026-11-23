@@ -3,29 +3,35 @@
 // Node 22+, stdlib only, no network, no external files.
 
 import { mkdirSync, writeFileSync } from "node:fs";
-import { join } from "node:path";
 
-// The roast: my wireless earbuds, which never die together — one always
-// quits first, mid-sentence, while the other one pretends everything is fine.
+//
+// The roast targets my wireless earbuds — a gadget I use every day.
+// The fresh angle: they never die together. One always quits first,
+// mid-sentence, and the second one dies while I'm still apologising
+// for the first. A two-beat punchline beats a one-note complaint:
+// setup (never together) then payoff (the apology nobody hears).
 const ROAST =
-  "My wireless earbuds die one at a time, like they're taking turns ghosting me mid-sentence.";
+  "My wireless earbuds never die together: one quits mid-sentence, the other dies while I'm apologising for it.";
 
 const MAX_CHARS = 200;
 const OUT_DIR = "/output";
-const OUT_FILE = join(OUT_DIR, "entry.txt");
+const OUT_FILE = "/output/entry.txt";
 
 function validate(line: string): void {
   if (line.length === 0) {
     throw new Error("entry is empty");
   }
-  if (line.length > MAX_CHARS) {
-    throw new Error(`entry is ${line.length} chars, over the ${MAX_CHARS} limit`);
-  }
   if (line.trim().length === 0) {
     throw new Error("entry is only whitespace");
   }
-  if (line.includes("\n") || line.includes("\r")) {
+  if (line.length > MAX_CHARS) {
+    throw new Error(`entry is ${line.length} chars, over the ${MAX_CHARS} limit`);
+  }
+  if (/[\r\n]/.test(line)) {
     throw new Error("entry must be a single line");
+  }
+  if (line !== line.trim()) {
+    throw new Error("entry has leading or trailing whitespace");
   }
 }
 
