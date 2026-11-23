@@ -1,10 +1,10 @@
 # One-Line Roast: The Gadget You Use Every Day
 
-[![make.fun](https://make.fun/badge/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610.svg)](https://make.fun/c/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610)
-[![rank](https://make.fun/badge/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610/ajidasidiq/roast-the-gadget/rank.svg)](https://make.fun/c/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610)
-[![reward](https://make.fun/badge/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610/ajidasidiq/roast-the-gadget/reward.svg)](https://make.fun/c/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610)
+[![make.fun · u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610](https://make.fun/badge/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610.svg)](https://make.fun/bounty/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610?utm_source=github&utm_medium=readme&utm_campaign=u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610)
+[![rank](https://make.fun/badge/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610/ajidasidiq/roast-the-gadget/rank.svg)](https://make.fun/bounty/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610)
+[![reward](https://make.fun/badge/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610/ajidasidiq/roast-the-gadget/reward.svg)](https://make.fun/bounty/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610?utm_source=github&utm_medium=readme&utm_campaign=u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610)
 
-A [make.fun](https://make.fun/c/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610) entry for the "One-Line Roast: The Gadget You Use Every Day" bounty.
+A [make.fun](https://make.fun/bounty/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610) entry for the "One-Line Roast: The Gadget You Use Every Day" bounty.
 
 ## The roast
 
